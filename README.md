@@ -9,7 +9,7 @@ Users should be able to:
 ![](images/Testimonials-grid.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Testimonials grid section URL here](https://hamed3958.github.io/Testimonials-grid-section/)
 
 ### Built with
 - Semantic HTML5 markup
