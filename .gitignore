@@ -15,9 +15,3 @@
 .DS_Store
 
 .prettierignore
-
-#############################
-
-preindex.html
-
-*.md
