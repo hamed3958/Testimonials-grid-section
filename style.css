@@ -25,6 +25,7 @@ body {
   align-items: center;
   padding-top: 30px;
   height: 100vh;
+  background-color: #f2f2f2;
 }
 
 .attribution {
@@ -46,6 +47,9 @@ body {
 }
 
 .boxes {
+  position: relative;
+  top: 0px;
+  left: 0px;
   padding: 32px;
   padding-top: 26px;
   display: flex;
@@ -59,7 +63,8 @@ body {
   position: relative;
   top: -5px;
   left: -5px;
-  transition: 0.5s;
+  transition: 0.4s;
+  /* transform: scale(1.02); */
   box-shadow: 40px 60px 50px -47px rgb(0, 0, 0);
 }
 
