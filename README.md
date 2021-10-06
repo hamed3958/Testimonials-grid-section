@@ -14,7 +14,7 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
-![](images/Testimonials-grid.png)
+![Testimonials-grid](images/Testimonials-grid-sc.png)
 
 ### Links
 - Live Site URL: [Testimonials grid section URL here](https://hamed3958.github.io/Testimonials-grid-section/)
